@@ -1,4 +1,14 @@
 body {
-    background: blue;
+    background: #3D9B8B;
+    text-align: center;
   }
-  
+  h1 {text-align: center;}
+  nav {text-align:center}
+  #ist p {font-style: italic}
+  #iist p {
+      text-align: center;
+      margin:10;
+      max-width: 600px;
+      height: auto;
+      padding-left: 622px;
+  }
